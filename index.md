@@ -17,3 +17,9 @@
 txt = "Hello World!"
 print(txt)
 ```
+
+# List
+
+- [ ] Add repositories to my GitHub
+- [ ] Update my portfolio
+- [ ] Update my README
